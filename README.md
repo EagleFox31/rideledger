@@ -2,12 +2,12 @@
 
 A sophisticated Progressive Web Application engineered for the precise predictive analysis and systematic management of monthly transportation expenditures.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Build%20Tool-Vite-blueviolet?style=flat&logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
 [![PWA](https://img.shields.io/badge/Architecture-PWA-5A0FC8?style=flat&logo=pwa)](https://web.dev/progressive-web-apps/)
-[![Workflow Status](https://img.shields.io/github/actions/workflow/status/your-org/rideledger/ci.yml?branch=main&label=CI)](https://github.com/your-org/rideledger/actions)
+
 
 ## Features
 
